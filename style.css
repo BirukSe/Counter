@@ -1,0 +1,21 @@
+#la{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+
+}
+#dev{
+    
+    text-align: center;
+    font-size: 1.5em;
+}
+.but{
+    font-size: 1.5em;
+    background-color: yellow;
+    cursor: pointer;
+}
+.but:hover{
+    background-color: aqua;
+
+
+}
